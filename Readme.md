@@ -1,6 +1,6 @@
 # Face Recognition
 
-Face Recognition using OpenCV in Python
+Face Recognition using OpenCV 
 
 
 
